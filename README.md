@@ -2,7 +2,7 @@
 Simple calculator to start getting familiar with JS.
 
 
-![![calculadora](https://user-images.githubusercontent.com/104312621/187953196-f913667c-2a5e-44aa-bb28-fadc01144800.jpg)
-]
+![calculadora](https://user-images.githubusercontent.com/104312621/187953196-f913667c-2a5e-44aa-bb28-fadc01144800.jpg)
+
 
 project link: https://lustrous-gecko-99ce5e.netlify.app/
